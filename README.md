@@ -33,7 +33,7 @@ Status: Completed
 
 ## Situsta
 
-[![N|Solid](https://trakteer.id/storage/images/post/vgxe3x9q9z93ladb/ci-7wGGACDNrQEglQZIeDyfZ1VQU3jtHVzM1609120764.png)](https://play.google.com/store/apps/details?id=com.betalogika.situsta&hl=en&gl=US)
+[![Situsta](https://trakteer.id/storage/images/post/vgxe3x9q9z93ladb/ci-7wGGACDNrQEglQZIeDyfZ1VQU3jtHVzM1609120764.png)](https://play.google.com/store/apps/details?id=com.betalogika.situsta&hl=en&gl=US)
 
 **Aplikasi Pemantau Situs Kesayanganmu**
 
